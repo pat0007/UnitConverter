@@ -10,7 +10,6 @@ import android.widget.EditText;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
     EditText txtF, txtC, txtMile, txtKM, txtLB, txtKG, txtGAL, txtL;

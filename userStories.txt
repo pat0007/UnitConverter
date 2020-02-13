@@ -1,0 +1,7 @@
+As a user, I want to tap into the fahrenheit field and enter a value and see my converted value over in the celsius field without having to press a button.
+
+As a user, I want to tap into the miles field and enter a value and see my converted value over in the kilometer field without having to press a button.
+
+As a user, I want to tap into the pounds (lbs) field and enter a value and see my converted value over in the kilograms field without having to press a button.
+
+As a user, I want to tap into the gallons field and enter a value and see my converted value over in the liters field without having to press a button.
