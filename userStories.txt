@@ -1,7 +1,7 @@
-As a user, I want to tap into the fahrenheit field and enter a value and see my converted value over in the celsius field without having to press a button.
+As a user, I want to tap into the fahrenheit field and enter a value and see my converted value over in the celsius field without having to press a button. The system takes each value that I enter and immediately updates the converted field with the correct value. As a user I can see the celsius field updating with each key press.
 
-As a user, I want to tap into the miles field and enter a value and see my converted value over in the kilometer field without having to press a button.
+As a user, I want to tap into the miles field and enter a value and see my converted value over in the kilometer field without having to press a button. The system takes each value that I enter and immediately updates the converted field with the correct value. As a user I can see the kilometer field updating with each key press.
 
-As a user, I want to tap into the pounds (lbs) field and enter a value and see my converted value over in the kilograms field without having to press a button.
+As a user, I want to tap into the pounds (lbs) field and enter a value and see my converted value over in the kilograms field without having to press a button. The system takes each value that I enter and immediately updates the converted field with the correct value. As a user I can see the kiolograms field updating with each key press.
 
-As a user, I want to tap into the gallons field and enter a value and see my converted value over in the liters field without having to press a button.
+As a user, I want to tap into the gallons field and enter a value and see my converted value over in the liters field without having to press a button. The system takes each value that I enter and immediately updates the converted field with the correct value. As a user I can see the liters field updating with each key press.
